@@ -14,7 +14,7 @@ tags:
 database语法和mysql一致。
 
 创建表：
-```roomsql
+```sql
 create table user_login(
 u_id int,
 login_date timestamp default current_timestamp
