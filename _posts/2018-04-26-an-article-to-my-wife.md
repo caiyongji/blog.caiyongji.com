@@ -22,7 +22,7 @@ login_date timestamp default current_timestamp
 ```
 插入数据：
 
-```roomsql
+```mysql
 DELIMITER //
 create procedure loop_insert()
 begin
@@ -47,13 +47,13 @@ end repeat;
 end//
 ```
 
-```roomsql
+```mysql
 call loop_insert();
 ```
 
 最开始我想到的是用`group_concat`,sql是这样：
 
-```roomsql
+```mysql
 SELECT
     u_id, group_concat(distinct DATE_FORMAT(login_date, '%Y%m%d') order by DATE_FORMAT(login_date, '%Y%m%d') desc separator '-') AS yyyymmdd
 FROM
@@ -71,7 +71,7 @@ GROUP BY u_id;
 
 行转列，需要`case when`枚举，好在日期只有14天，可以做到：
 
-```roomsql
+```mysql
 SELECT
         u_id,
             CASE DATE_FORMAT(login_date, '%Y%m%d')
@@ -142,7 +142,7 @@ SELECT
 
 按用户合并日期，去重，用`max`可以保证单条数据，有数据置为1无数据置为0：
 
-```roomsql
+```mysql
 SELECT
         u_id,
             CASE
@@ -273,7 +273,7 @@ SELECT
 
 使用`group_concat`:
 
-```roomsql
+```mysql
 SELECT
         u_id,
             CONCAT(isZ20180413, isZ20180414, isZ20180415, isZ20180416, isZ20180417, isZ20180418, isZ20180419, isZ20180420, isZ20180421, isZ20180422, isZ20180423, isZ20180424, isZ20180425, isZ20180426) AS sumIsZ
@@ -405,7 +405,7 @@ SELECT
 
 ## 统计 ##
 
-```roomsql
+```mysql
 SELECT
     u_id,
     sumIsZ,
