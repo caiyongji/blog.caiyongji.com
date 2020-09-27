@@ -49,7 +49,5 @@ header:
       # @end locale config
     url: /about.html
   - titles:
-      # @start locale config
       en      : &EN       caiyongji.com
-      # @end locale config
       url: http://caiyongji.com
