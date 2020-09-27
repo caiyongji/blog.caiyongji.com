@@ -11,7 +11,7 @@ tags:
 
 有人说腾讯大致是这样实现的：
 
-```
+```java
 public static double getRandomMoney(LeftMoneyPackage _leftMoneyPackage) {
     // remainSize 剩余的红包数量
     // remainMoney 剩余的钱
@@ -39,7 +39,7 @@ public static double getRandomMoney(LeftMoneyPackage _leftMoneyPackage) {
 
 下面我们换个思路，现在我们把所有的钱换成1分的**硬币**，把红包想象成**罐子**，然后**撒币**。
 
-```
+```java
 /**
  * @param count 红包数
  * @param money 总金额

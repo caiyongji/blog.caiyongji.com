@@ -16,7 +16,7 @@ tags:
 
 
 我们看一下Nginx上多域名配置的代码：
-```
+```editorconfig
 server
 {
     listen 80;

@@ -19,7 +19,7 @@ google chrome团队出品的puppeteer 是依赖nodejs和chromium的自动化测�
 
 开源地址：[https://github.com/GoogleChrome/puppeteer/][1]
 #### 安装 ####
-```
+```shell script
 npm i puppeteer
 ```
 **注意**先安装nodejs, 并在nodejs文件根目录下执行（npm文件同级）。
@@ -32,7 +32,7 @@ npm i puppeteer
 ## 抓取blog文章 ##
 以csdn blog为例，文章内容需要点击“阅读全文”来获取，这就导致只能读取dom的脚本失效。
 
-```
+```javascript
 /**
 * load blog.csdn.net article to local files
 **/

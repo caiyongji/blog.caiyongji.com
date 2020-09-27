@@ -9,7 +9,7 @@ tags:
 
 这个例子很久远，早有前辈做过，但并不是所有的程序员都接触过。通常喜欢“猎奇”的程序员对此不会陌生。
 
-```
+```java
 
 import java.lang.reflect.Field;
 
