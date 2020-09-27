@@ -388,11 +388,12 @@ public class WeChatUrls extends Thread {
     }
 }
 
-````python
+```
 # 3（PYTHON）
 
 wordcloud生成词云：
-````
+
+```python
 # -*- coding: utf-8 -*-
 import json
 import random
@@ -461,7 +462,7 @@ for l in range(0,len(baselist)):
         if os.path.isdir(p):
                 proc(os.path.basename(p), 'top')
 
-````
+```
 #4
 词云结果涉及23个维度，得出结果如下：
 
