@@ -1,5 +1,5 @@
 ---
-title: 实例：使用puppeteer headless方式抓取JS网页
+title: 你的知识死角不能否定你的技术能力
 tags:
 - 职业生涯
 - 面试
