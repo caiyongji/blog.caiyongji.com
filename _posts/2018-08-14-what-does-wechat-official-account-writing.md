@@ -264,7 +264,7 @@ const detailUrl = "https://www.newrank.cn/public/info/detail.html?account=";
 
 Jsoup抓取微信文章文本：
 
-````java
+```java
 package com;
 
 import java.io.BufferedReader;
@@ -463,10 +463,12 @@ for l in range(0,len(baselist)):
                 proc(os.path.basename(p), 'top')
 
 ```
-#4
+
+# 4
+
 词云结果涉及23个维度，得出结果如下：
 
-##TOP500公众号文章
+TOP500公众号文章
 
 ![](/assets/images/20180814/1.webp)
 
