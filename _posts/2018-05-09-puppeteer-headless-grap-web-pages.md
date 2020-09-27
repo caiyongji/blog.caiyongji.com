@@ -154,7 +154,7 @@ const makLoop = 10;
 大家可拓展下代码中`process()`方法，使用`async.eachSeries`，我使用的递归方式并不是最优解。
 事实上，逐一处理并不高效，原本我写了一个异步的关闭browser方法：
 
-```
+```javascript
 let tryCloseBrowser = setInterval(function(){
         console.log("check if any process running...")
         if(countDown<=0){

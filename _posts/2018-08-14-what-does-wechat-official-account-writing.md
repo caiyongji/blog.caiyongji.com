@@ -11,7 +11,7 @@ tags:
 # 1(NODEJS)
 
 puppeteer模拟登陆，抓取微信公众号链接：
-````
+````javascript
 /**
 * load wechat article urls on newrank.cn
 **/
@@ -264,7 +264,7 @@ const detailUrl = "https://www.newrank.cn/public/info/detail.html?account=";
 
 Jsoup抓取微信文章文本：
 
-````
+````java
 package com;
 
 import java.io.BufferedReader;
@@ -388,7 +388,7 @@ public class WeChatUrls extends Thread {
     }
 }
 
-````
+````python
 # 3（PYTHON）
 
 wordcloud生成词云：
