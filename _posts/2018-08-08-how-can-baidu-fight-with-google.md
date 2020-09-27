@@ -14,7 +14,7 @@ article_header:
 
 8月1日，有传言谷歌重返中国，百度股价下挫7.84%。后证实是谣传。
 
-![](../assets/images/20180808/0801bidu-stock.png)
+![](/assets/images/20180808/0801bidu-stock.png)
 
 
 
@@ -23,14 +23,14 @@ article_header:
 8月6日，人民日报在海外（Twitter, Facebook）发声：欢迎谷歌回归，但必须遵守当地(大陆)法律。
 
 
-![](../assets/images/20180808/people%20daily-google%20back.png)
+![](/assets/images/20180808/people%20daily-google%20back.png)
 
 
 
 
 紧接着，李彦宏在朋友圈发声：非常有信心再赢谷歌一次。
 
-![](../assets/images/20180808/yanhong.li%20pronounce.jpg)
+![](/assets/images/20180808/yanhong.li%20pronounce.jpg)
 
 
 
@@ -38,7 +38,7 @@ article_header:
 
 然而，百度（BIDU）在8月7日的开盘价却是228.31，相较于232.96，下降2%。
 
-![](../assets/images/20180808/bidu-start.png)
+![](/assets/images/20180808/bidu-start.png)
 
 
 
@@ -66,7 +66,7 @@ article_header:
 
 我们看看谷歌和百度的产品家族。
 
-![](../assets/images/20180808/products%20g%20vs%20b.png)
+![](/assets/images/20180808/products%20g%20vs%20b.png)
 
 
 
@@ -93,7 +93,7 @@ article_header:
 我们先看谷歌在纳斯达克上市时招股说明书中披露的风险因素。
 
 
-![](../assets/images/20180808/google%20risk.png)
+![](/assets/images/20180808/google%20risk.png)
 
 
 
@@ -104,7 +104,7 @@ article_header:
 再看百度在纳斯达克上市时招股说明书中披露的风险因素。
 
 
-![](../assets/images/20180808/baidu%20risk.png)
+![](/assets/images/20180808/baidu%20risk.png)
 
 
 
@@ -119,7 +119,7 @@ article_header:
 我翻出了当年搜狐IT频道对于两家公司的报道。
 
 
-![](../assets/images/20180808/g%20vs%20b%20ipo.png)
+![](/assets/images/20180808/g%20vs%20b%20ipo.png)
 
 
 
@@ -139,15 +139,15 @@ article_header:
 根据crunchbase的数据，我们看谷歌的收购事件。
 
 
-![](../assets/images/20180808/google%20acquisitions.png)
-![](../assets/images/20180808/google%20acquisitions2.png)
+![](/assets/images/20180808/google%20acquisitions.png)
+![](/assets/images/20180808/google%20acquisitions2.png)
 
 
 
 再来看百度的收购事件。
 
 
-![](../assets/images/20180808/baidu%20acquisitions.png)
+![](/assets/images/20180808/baidu%20acquisitions.png)
 
 
 
@@ -165,7 +165,7 @@ article_header:
 当前(8月7日23:31)谷歌和百度的股价表现。
 
 
-![](../assets/images/20180808/stock%20g%20vs%20b.png)
+![](/assets/images/20180808/stock%20g%20vs%20b.png)
 
 
 
@@ -181,7 +181,7 @@ article_header:
 在8月1日、8月6日传出的”谷歌重返中国“消息，百度的股价都表现出“断崖式”开盘。这是一个很有趣的现象。
 
 
-![](../assets/images/20180808/bidu%20jump.png)
+![](/assets/images/20180808/bidu%20jump.png)
 
 
 
