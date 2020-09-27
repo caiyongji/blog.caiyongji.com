@@ -1,6 +1,7 @@
 ---
 title: Java入门姿势
-tags: Java入门
+tags:
+- Java入门
 ---
 
 > 技术只是工具，文档只是说明书，仅此而已。

@@ -1,7 +1,11 @@
 ---
 title: 如何成为10倍速的程序员
 key: 20171220
-tags: 10x caiyongji popular 10倍速
+tags:
+- caiyongji
+- popular
+- 10倍速程序员
+- 10x programmer
 ---
 
 

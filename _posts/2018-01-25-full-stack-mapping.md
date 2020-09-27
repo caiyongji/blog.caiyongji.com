@@ -1,6 +1,7 @@
 ---
 title: 全栈技术导图
-tags: full stack
+tags:
+- full stack
 ---
 ![图片描述][1]
 

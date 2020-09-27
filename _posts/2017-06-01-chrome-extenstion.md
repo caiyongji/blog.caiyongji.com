@@ -1,6 +1,8 @@
 ---
 title: 发布 Google Chrome 插件教程
-tags: Chrome插件 Chrome Extension
+tags:
+- Chrome插件
+- Chrome Extension
 ---
 > 换个视角，世界不一样。嘘~~~
 

@@ -1,6 +1,7 @@
 ---
 title: 程序员必备工具目录
-tags: tools
+tags:
+- tools
 ---
 # 目录
 

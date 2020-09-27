@@ -1,6 +1,8 @@
 ---
 title: github emoji 表情列表
-tags: github emoji
+tags:
+- github
+- emoji
 ---
 
 最新emoji大全：[emoji列表](https://github.com/caiyongji/emoji-list)
