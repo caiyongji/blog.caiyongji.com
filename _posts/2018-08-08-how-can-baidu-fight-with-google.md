@@ -11,7 +11,7 @@ article_header:
     src: /assets/images/20180808/VS.png
 ---
 
-#1
+# 1
 
 8月1日，有传言谷歌重返中国，百度股价下挫7.84%。后证实是谣传。
 
@@ -47,7 +47,7 @@ article_header:
 
 
 
-#2
+# 2
 
 
 
@@ -61,7 +61,7 @@ article_header:
 
 
 
-#3
+# 3
 
 
 
@@ -83,7 +83,7 @@ article_header:
 
 
 
-#4
+# 4
 
 
 
@@ -129,7 +129,7 @@ article_header:
 
 
 
-#5
+# 5
 
 
 
@@ -159,7 +159,7 @@ article_header:
 
 
 
-#6
+# 6
 
 
 
@@ -175,7 +175,7 @@ article_header:
 
 
 
-#7
+# 7
 
 
 

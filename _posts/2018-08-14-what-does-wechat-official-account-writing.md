@@ -8,7 +8,8 @@ tags:
 
 抓取数据、分析用到了3中语言：Node.js，Java，Python。废话不多说，直接上代码。
 
-#1(NODEJS)
+# 1(NODEJS)
+
 puppeteer模拟登陆，抓取微信公众号链接：
 ````
 /**
@@ -259,7 +260,8 @@ const detailUrl = "https://www.newrank.cn/public/info/detail.html?account=";
 })();
 
 ````
-#2（JAVA）
+# 2（JAVA）
+
 Jsoup抓取微信文章文本：
 
 ````
@@ -388,6 +390,7 @@ public class WeChatUrls extends Thread {
 
 ````
 # 3（PYTHON）
+
 wordcloud生成词云：
 ````
 # -*- coding: utf-8 -*-
