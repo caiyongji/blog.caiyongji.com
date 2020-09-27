@@ -19,7 +19,7 @@ google chrome团队出品的puppeteer 是依赖nodejs和chromium的自动化测�
 
 开源地址：[https://github.com/GoogleChrome/puppeteer/][1]
 #### 安装 ####
-```shell script
+```shell
 npm i puppeteer
 ```
 **注意**先安装nodejs, 并在nodejs文件根目录下执行（npm文件同级）。
