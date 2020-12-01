@@ -1,5 +1,5 @@
 ---
-title: 前置机器学习（二）：10分钟掌握常用Jupyter Notebook用法
+title: 前置机器学习（二）：30分钟掌握常用Jupyter Notebook用法
 tags:
 - Pre-ML
 - 前置机器学习
