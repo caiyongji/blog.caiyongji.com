@@ -5,6 +5,8 @@ tags:
 - 前置机器学习
 - Machine Learning
 - Pandas
+- Pandas详解
+- Pandas教程
 ---
 > Pandas提供快速，灵活和富于表现力的**数据结构**，是强大的**数据分析**Python库。
 
