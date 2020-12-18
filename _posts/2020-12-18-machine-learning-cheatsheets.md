@@ -77,7 +77,7 @@ Pandas提供快速，灵活和富于表现力的数据结构，是强大的数�
 
 ![image](/assets/images/20201218/pandas1-4.png)
 
-篇幅关系，以上仅为部分`pandas`速查表图片，请参考本项目./pdfs路径下原文件。
+篇幅关系，以上仅为部分`pandas`速查表图片，pdf原文件请参考开源项目[MachineLearningCheatsheets](https://github.com/caiyongji/MachineLearningCheatsheets)
 
 ## Matplotlib ##
 
