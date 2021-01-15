@@ -161,8 +161,8 @@ plt.plot(history.history['loss'])
 
 # 前置学习系列
 
-[前置机器学习（五）：30分钟掌握常用Matplotlib用法](https://mp.weixin.qq.com/s/5brLPnUP6sYvc-_JO7IzkA)
-[前置机器学习（四）：一文掌握Pandas用法](https://mp.weixin.qq.com/s/LlLkkBfI-4s3qdVaiv7EdQ)
-[前置机器学习（三）：30分钟掌握常用NumPy用法](https://mp.weixin.qq.com/s/U8dV8ENzzSx_VwBDdJdr_w)
-[前置机器学习（二）：30分钟掌握常用Jupyter Notebook用法](https://mp.weixin.qq.com/s/PCGThwI-YD7_hHxO35V8xw)
-[前置机器学习（一）：数学符号及希腊字母](https://mp.weixin.qq.com/s/BLxyqK3CGV9yd92yGEs4XQ)
+* [前置机器学习（五）：30分钟掌握常用Matplotlib用法](https://mp.weixin.qq.com/s/5brLPnUP6sYvc-_JO7IzkA)
+* [前置机器学习（四）：一文掌握Pandas用法](https://mp.weixin.qq.com/s/LlLkkBfI-4s3qdVaiv7EdQ)
+* [前置机器学习（三）：30分钟掌握常用NumPy用法](https://mp.weixin.qq.com/s/U8dV8ENzzSx_VwBDdJdr_w)
+* [前置机器学习（二）：30分钟掌握常用Jupyter Notebook用法](https://mp.weixin.qq.com/s/PCGThwI-YD7_hHxO35V8xw)
+* [前置机器学习（一）：数学符号及希腊字母](https://mp.weixin.qq.com/s/BLxyqK3CGV9yd92yGEs4XQ)
