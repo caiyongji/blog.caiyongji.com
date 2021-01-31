@@ -31,7 +31,7 @@ tags:
 好与坏是很主观的表达，主观的感受是不可靠的，我们必须找到一种客观的度量方式。我们想当然的认为误差最小的表示，是最好的。那么，我们引出一种量化误差的方法---最小二乘法。  
 
 **最小二乘法**：使误差的平方和最小的办法，是一种误差统计方法，二乘就是平方的意思。  
-$$ SE = \sum{(y_{pred} -y_{true})^2} $$
+$ SE = \sum{(y_{pred} -y_{true})^2} $
 
 最小二乘法的解释是这样的，我们用`预测值-实际值`表示单点的误差，再把它们的`平方和`加到一起来表示整体误差。（*平方的好处可以处理掉负数值，用绝对值的和也不是不可以。*）我们用这个最终值来表示损失（成本），而可以表示损失（成本）的函数就叫做损失函数（成本函数）。  
  
@@ -46,11 +46,11 @@ $$ SE = \sum{(y_{pred} -y_{true})^2} $$
 
 我们把木棒（实线、模型）的表示数学化，我们既然可以用3、4做为x的系数，那我们当然可以尝试别的数字。我们用如下公式表示这种关系：
 
-$$ y = wx + b $$
+$ y = wx + b $
 
 其中，x和y是已知的，我们不断调整`w`(**权重**)和`b`(**偏差**)，然后再带入损失函数以求得最小值的过程，就是**梯度下降**。  
 
-我们从-50开始到50结束设置`w`的值，我们通过随机数来是指偏置`b`，然后再带入损失函数计算我们的预测和实际值的误差损失，得到如下曲线：
+我们从-50开始到50结束设置`w`的值，我们通过随机数来设置偏置`b`，然后再带入损失函数计算我们的预测和实际值的误差损失，得到如下曲线：
 
 
 ![image](/assets/images/20210119/4.png)
@@ -188,11 +188,11 @@ plt.show()
 
 | 名称 | 解释 | 公式 |
 | --- | --- | --- |
-| 线性回归(Linear Regression) | 一种以线性模型来建模自变量与因变量关系的方法 | $$ y = wx+b $$ |
-| 逻辑回归(Logistic Regression) | 对特定类别进行建模，用于二分类 | $$ y=\frac{1}{1+e^{-x}} $$ |
-| 多项式回归(Polynomial Regression) | 自变量 x 和因变量 y 之间的关系被建模为关于 x 的 n 次多项式 | $$ y=\beta_0 + \beta_1x + \beta_2x^2 + ... + \beta_mx^m + \varepsilon $$ （cαiyongji水印） |
+| 线性回归(Linear Regression) | 一种以线性模型来建模自变量与因变量关系的方法 | $ y = wx+b $ |
+| 逻辑回归(Logistic Regression) | 对特定类别进行建模，用于二分类 | $ y=\frac{1}{1+e^{-x}} $ |
+| 多项式回归(Polynomial Regression) | 自变量 x 和因变量 y 之间的关系被建模为关于 x 的 n 次多项式 | $ y=\beta_0 + \beta_1x + \beta_2x^2 + ... + \beta_mx^m + \varepsilon $ （cαiyongji水印） |
 | 逐步回归(Stepwise Regression) | 将多个变量一个一个地引入到模型，找到其对模型影响大的变量 |  |
-| 套索回归(Lasso Regression) | 稀疏矩阵，消除不重要的特征，MSE+L1范数 | $$ J(\theta)=MSE(\theta) + \alpha\sum\mid\theta\mid $$ ，其中，α越大模型权重越小|
-| 岭回归(Ridge Regression) | 正则化线性回归，增加模型自由度，防止过拟合，MSE+L2范数 | $$ J(\theta)=MSE(\theta) + \alpha\frac{1}{2}\sum\theta^2 $$  ，其中，α越大模型权重越小|
-| 弹性网络(ElasticNet) | 介于岭回归和Lasso回归之间 | $$ J(\theta)=MSE(\theta) + \gamma\alpha\sum\mid\theta\mid + \alpha\frac{1-\gamma}{2}\sum\theta^2 $$ ，其中，γ介于0和1之间，接近0则更倾向于岭回归，接近1则更倾向于Lasso回归 |
+| 套索回归(Lasso Regression) | 稀疏矩阵，消除不重要的特征，MSE+L1范数 | $ J(\theta)=MSE(\theta) + \alpha\sum\mid\theta\mid $ ，其中，α越大模型权重越小|
+| 岭回归(Ridge Regression) | 正则化线性回归，增加模型自由度，防止过拟合，MSE+L2范数 | $ J(\theta)=MSE(\theta) + \alpha\frac{1}{2}\sum\theta^2 $  ，其中，α越大模型权重越小|
+| 弹性网络(ElasticNet) | 介于岭回归和Lasso回归之间 | $ J(\theta)=MSE(\theta) + \gamma\alpha\sum\mid\theta\mid + \alpha\frac{1-\gamma}{2}\sum\theta^2 $ ，其中，γ介于0和1之间，接近0则更倾向于岭回归，接近1则更倾向于Lasso回归 |
 
