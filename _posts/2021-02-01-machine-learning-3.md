@@ -21,7 +21,8 @@ tags:
 
 ![image](/assets/images/20210201/2.png)
 
-我们无法使用无穷大和负无穷大进行算术运算，我们通过逻辑回归函数（Sigmoid函数/S型函数/Logistic函数）可以讲数值计算限定在0-1之间。
+我们无法使用无穷大和负无穷大进行算术运算，我们通过逻辑回归函数（Sigmoid函数/S型函数/Logistic函数）可以讲数值计算限定在0-1之间。  
+
 $$ \sigma(x) = \frac{1}{1+e^{-x}} $$
 
 以上就是逻辑回归的简单解释。下面我们应用真实的数据案例来进行二分类代码实践。
@@ -118,25 +119,31 @@ plot_confusion_matrix(log_model,scaled_X_test,y_test)
 * **假正类FP(False Positive)** ：预测为正，实际结果为负。如，上图左下角19。
 * **假负类FN(False Negative)** ：预测为负，实际结果为正。如，上图右上角20。
 
-**准确率(Accuracy)** 公式如下：    
+**准确率(Accuracy)** 公式如下：   
+ 
 $$ Accuracy = \frac{TP+TN}{TP+TN+FP+FN} $$
 
 带入本例得：  
+
 $$ Accuracy = \frac{285+176}{285+176+20+19} = 0.922 $$
 
 **精确度(Precision)** 公式如下：    
+
 $$ Precision = \frac{TP}{TP+FP} $$
 
 带入本例得：  
 $$ Precision = \frac{285}{285+19} = 0.9375 $$
 
 **召回率(Recall)** 公式如下：    
+
 $$ Recall = \frac{TP}{TP+FN} $$
 
 带入本例得：  
+
 $$ Recall = \frac{285}{285+20} = 0.934 $$
 
 我们调用`classification_report`方法可验证结果。
+
 ```
 print(classification_report(y_test,y_pred))
 ```
