@@ -29,7 +29,7 @@ tags:
 
 我们导入数据集（大家不用在意这个域名），并训练模型：  
 
-```
+```python
 import numpy as np
 import pandas as pd
 from sklearn.tree import DecisionTreeClassifier
@@ -46,7 +46,7 @@ tree_clf.fit(X, y)
 
 我们来可视化决策树：  
 
-```
+```python
 import matplotlib.pyplot as plt
 from sklearn.tree import plot_tree
 plt.figure(figsize=(12,8))
@@ -85,7 +85,7 @@ $$ G_i = 1 - \sum_{k=1}^{n}{p^2_{i,k}} $$
 
 添加引用：  
 
-```
+```python
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -94,7 +94,7 @@ import seaborn as sns
 
 导入数据集（大家不用在意这个域名）：
 
-```
+```python
 df = pd.read_csv("https://blog.caiyongji.com/assets/penguins_size.csv")
 df = df.dropna()
 df.head()
@@ -115,10 +115,8 @@ df.head()
 
 ### 2.2.2 观察数据
 
-```
-
+```python
 sns.pairplot(df,hue='species')
-
 ```
 
 我们通过pairplot方法绘制特征两两之间的对应关系。  
@@ -128,7 +126,7 @@ sns.pairplot(df,hue='species')
 
 ### 2.2.3 预处理
 
-```
+```python
 X = pd.get_dummies(df.drop('species',axis=1),drop_first=True)
 y = df['species']
 X.head()
@@ -146,7 +144,7 @@ X.head()
 
 ### 2.2.4 训练数据
 
-```
+```python
 #训练
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
@@ -166,7 +164,7 @@ accuracy_score(y_test,preds)
 
 我们使用`AdaBoostClassifier`分类器集成数个决策树分类器`DecisionTreeClassifier`进行分类。并使用网格搜索方法`GridSearchCV`来寻找最优参数。  
 
-```
+```python
 from sklearn.model_selection import GridSearchCV
 from sklearn.ensemble import AdaBoostClassifier
 
