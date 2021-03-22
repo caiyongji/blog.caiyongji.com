@@ -476,7 +476,7 @@ plt.show()
 ```
 上述代码中`anim.save()`方法支持保存mp4格式文件。  
 绘制动图如下：
-![image](/assets/images/20201225/1.gif)
+![image](/assets/images/20201225/13.gif)
 
 # 结语
 
