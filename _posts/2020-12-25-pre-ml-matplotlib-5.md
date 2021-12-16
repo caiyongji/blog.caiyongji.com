@@ -2,6 +2,7 @@
 title: 前置机器学习（五）：30分钟掌握常用Matplotlib用法
 tags:
 - Pre-ML
+- 机器学习
 - 前置机器学习
 - Machine Learning
 - Matplitlib
