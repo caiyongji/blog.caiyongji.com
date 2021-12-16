@@ -2,6 +2,7 @@
 title: 前置机器学习（二）：30分钟掌握常用Jupyter Notebook用法
 tags:
 - Pre-ML
+- 机器学习
 - 前置机器学习
 - Jupyter Notebook
 - Jupyter Notebook 快捷键
@@ -88,7 +89,7 @@ myarray
 ![image](/assets/images/20201202/tootip.png)
 
 
-### 1.4 Markdown 
+### 1.4 Markdown
 
 选中myarray单元格，按 `A`  （Above）在myarray上方插入单元格，再按 `M` 将单元格格式转换为Markdown格式。
 ```
@@ -177,4 +178,3 @@ $$s^2 = \frac{\sum_{i=1}^{n}{(x_i -x)^2}}{n}$$
 ## 3. 更多
 
 Jupyter Notebook 官方文档： [https://jupyter-Notebook.readthedocs.io/en/stable/examples/Notebook/examples_index.html](https://jupyter-Notebook.readthedocs.io/en/stable/examples/Notebook/examples_index.html)
-

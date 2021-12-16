@@ -2,6 +2,7 @@
 title: 前置机器学习（三）：30分钟掌握常用NumPy用法
 tags:
 - Pre-ML
+- 机器学习
 - 前置机器学习
 - Machine Learning
 - NumPy
@@ -67,7 +68,7 @@ tuple[2] = 'caiyongji'
 
 ## 3. Set{集合}
 
-集合是包含**不重复**元素的集体，由花括号 `{ }` 包裹。 
+集合是包含**不重复**元素的集体，由花括号 `{ }` 包裹。
 
 ```
 set1 = {'a','b','c','a'}
@@ -87,27 +88,27 @@ set1[0]
 set1和set2的**差集**：
 ```
 set1 - set2
-#set1.difference(set2) 
+#set1.difference(set2)
 ```
 输出：`{'a'}`。
 
 set1和set2的**并集**：
 ```
 set1 | set2
-#set1.union(set2) 
+#set1.union(set2)
 ```
 输出：`{'a', 'b', 'c', 'd', 'e'}`。
 
 set1和set2的**交集**：
 ```
 set1 & set2
-#set1.intersection(set2) 
+#set1.intersection(set2)
 ```
 输出：`{'b', 'c'}`。
 
 set1和set2的**对称差集**：
 ```
-set1 ^ set2 
+set1 ^ set2
 #(set1 - set2) | (set2 - set1)
 #set1.symmetric_difference(set2)
 ```
