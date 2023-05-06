@@ -6,7 +6,7 @@ tags:
 - Human Understandable Artificial Intelligence
 - HUAI
 author: caiyongji
-excerpt: SVM(Support Vector Machines)
+excerpt: HUAI(Human Understandable Artificial Intelligence) - SVM(Support Vector Machines)
 ---
 
 # SVM(Support Vector Machines)

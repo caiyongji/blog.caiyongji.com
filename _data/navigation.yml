@@ -26,7 +26,7 @@ huai-sidebar-navigation:
   - title:      HUAI(Human Understandable Artificial Intelligence)
     children:
       - title:  Introduction
-        url:    /huai/quick-start.html
+        url:    /huai/introduction.html
       - title:  SVM(Support Vector Machines)
         url:    /huai/svm.html
   - title:      内容

@@ -1,6 +1,6 @@
 ---
-title: Quick Start
-permalink: /huai/quick-start.html
+title: Introduction
+permalink: /huai/introduction.html
 tags:
 - Human Understandable Artificial Intelligence
 - HUAI
@@ -11,5 +11,6 @@ excerpt: HUAI(Human Understandable Artificial Intelligence)
 
 
 # Introduction
+HUAI is made for human.
 
 coming soon...
