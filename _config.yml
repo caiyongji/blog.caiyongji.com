@@ -231,6 +231,20 @@ defaults:
       pageview: true
       sidebar:
         nav: prompt-sidebar-navigation
+  - scope:
+      path: "_tutorials/huai"
+    values:
+      nav_key: huai
+      layout: article
+      sharing: true
+      license: false
+      aside:
+        toc: true
+      show_edit_on_github: false
+      show_subscribe: false
+      pageview: true
+      sidebar:
+        nav: huai-sidebar-navigation
 
 ## => Plugins
 ##############################
