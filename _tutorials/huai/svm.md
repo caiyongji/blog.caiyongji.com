@@ -1,5 +1,5 @@
 ---
-title: Quick Start
+title: SVM(Support Vector Machines)
 permalink: /huai/svm.html
 tags:
 - SVM
