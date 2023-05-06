@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="96b72ae1-b839-41d1-9f23-9e6ef2110db7" name="Changes" comment="add svm">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_tutorials/huai/svm.md" beforeDir="false" afterPath="$PROJECT_DIR$/_tutorials/huai/svm.md" afterDir="false" />
     </list>
     <list id="45223373-83b9-4ef5-86cf-082aec47551b" name="IGNORE" comment="" />
     <option name="SHOW_DIALOG" value="false" />

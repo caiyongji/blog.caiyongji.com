@@ -1,3 +1,14 @@
+---
+title: Quick Start
+permalink: /huai/svm.html
+tags:
+- SVM
+- Human Understandable Artificial Intelligence
+- HUAI
+author: caiyongji
+excerpt: SVM(Support Vector Machines)
+---
+
 # SVM(Support Vector Machines)
 
 ## Human Understandable
