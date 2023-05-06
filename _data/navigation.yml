@@ -1,6 +1,20 @@
 header:
   - title: HOME
     url: /index.html
+  - title: PYTHON
+    url: /python/quick-start.html
+    key: python
   - title: TAGS
     url: /archive.html
-    
+
+python-sidebar-navigation:
+  - title:      定制
+    children:
+      - title:  配置
+        url:    /python/quick-start.html
+      - title:  导航栏
+        url:    /python/navigation.html
+  - title:      内容
+    children:
+      - title:  撰写博客
+        url:    /python/writing-posts.html
