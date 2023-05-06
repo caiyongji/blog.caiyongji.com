@@ -1,17 +1,17 @@
 header:
   - title: HOME
     url: /index.html
-  - title: PYTHON
-    url: /python/quick-start.html
-    key: python
+  - title: PROMPT
+    url: /prompt/quick-start.html
+    key: prompt
   - title: TAGS
     url: /archive.html
 
-python-sidebar-navigation:
-  - title:      定制
+prompt-sidebar-navigation:
+  - title:      Prompt Engineering Crash Course
     children:
-      - title:  配置
-        url:    /python/quick-start.html
+      - title:  Prompt quick start
+        url:    /prompt/quick-start.html
       - title:  导航栏
         url:    /python/navigation.html
   - title:      内容
