@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96b72ae1-b839-41d1-9f23-9e6ef2110db7" name="Changes" comment="hide prompt first">
-      <change afterPath="$PROJECT_DIR$/_tutorials/huai/2023-05-06-quick-start.md" afterDir="false" />
+    <list default="true" id="96b72ae1-b839-41d1-9f23-9e6ef2110db7" name="Changes" comment="huai">
+      <change afterPath="$PROJECT_DIR$/_tutorials/huai/svm.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_tutorials/prompt/2023-05-06-quick-start.md" beforeDir="false" afterPath="$PROJECT_DIR$/_tutorials/prompt/2023-05-06-quick-start.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683372707421</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="huai">
+      <created>1683374964124</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683374964124</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,6 +109,7 @@
     <MESSAGE value="python navi" />
     <MESSAGE value="prompt crash course quick start" />
     <MESSAGE value="hide prompt first" />
-    <option name="LAST_COMMIT_MESSAGE" value="hide prompt first" />
+    <MESSAGE value="huai" />
+    <option name="LAST_COMMIT_MESSAGE" value="huai" />
   </component>
 </project>

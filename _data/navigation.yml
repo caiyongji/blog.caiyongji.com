@@ -27,8 +27,8 @@ huai-sidebar-navigation:
     children:
       - title:  HUAI(Human Understandable Artificial Intelligence)
         url:    /huai/quick-start.html
-      - title:  导航栏
-        url:    /python/navigation.html
+      - title:  SVM(Support Vector Machines)
+        url:    /huai/svm.html
   - title:      内容
     children:
       - title:  撰写博客
