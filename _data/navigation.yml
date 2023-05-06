@@ -1,12 +1,12 @@
 header:
   - title: HOME
     url: /index.html
-  - title: PROMPT
-    url: /prompt/quick-start.html
-    key: prompt
-  - title: HUAI
-    url: /huai/introduction.html
-    key: huai
+#  - title: PROMPT
+#    url: /prompt/quick-start.html
+#    key: prompt
+#  - title: HUAI
+#    url: /huai/introduction.html
+#    key: huai
   - title: TAGS
     url: /archive.html
 
