@@ -1,9 +1,9 @@
 header:
   - title: HOME
     url: /index.html
-  - title: PROMPT
-    url: /prompt/quick-start.html
-    key: prompt
+#  - title: PROMPT
+#    url: /prompt/quick-start.html
+#    key: prompt
   - title: TAGS
     url: /archive.html
 
