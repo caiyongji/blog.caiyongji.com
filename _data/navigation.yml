@@ -5,7 +5,7 @@ header:
     url: /prompt/quick-start.html
     key: prompt
   - title: HUAI
-    url: /huai/quick-start.html
+    url: /huai/introduction.html
     key: huai
   - title: TAGS
     url: /archive.html
