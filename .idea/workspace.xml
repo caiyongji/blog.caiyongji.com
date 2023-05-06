@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96b72ae1-b839-41d1-9f23-9e6ef2110db7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_tutorials/python/2009-09-03-quick-start.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_tutorials/python/2021-02-19-2.2-navigation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_tutorials/python/2021-02-19-3.1-writing-posts.md" afterDir="false" />
+    <list default="true" id="96b72ae1-b839-41d1-9f23-9e6ef2110db7" name="Changes" comment="python navi">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +46,14 @@
       <option name="presentableId" value="Default" />
       <updated>1674733855523</updated>
     </task>
+    <task id="LOCAL-00001" summary="python navi">
+      <created>1683359446392</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683359446392</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -62,5 +66,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="python navi" />
+    <option name="LAST_COMMIT_MESSAGE" value="python navi" />
   </component>
 </project>

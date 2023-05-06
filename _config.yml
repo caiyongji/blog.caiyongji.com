@@ -200,6 +200,10 @@ exclude:
   - /test
   - /vendor
 
+collections:
+  tutorials:
+    output: true
+
 defaults:
   - scope:
       path: ""
