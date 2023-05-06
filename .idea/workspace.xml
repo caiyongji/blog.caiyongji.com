@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96b72ae1-b839-41d1-9f23-9e6ef2110db7" name="Changes" comment="python navi">
-      <change afterPath="$PROJECT_DIR$/_tutorials/prompt/2023-05-06-quick-start.md" afterDir="false" />
+    <list default="true" id="96b72ae1-b839-41d1-9f23-9e6ef2110db7" name="Changes" comment="prompt crash course quick start">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_tutorials/python/2009-09-03-quick-start.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_tutorials/python/2021-02-19-2.2-navigation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_tutorials/python/2021-02-19-3.1-writing-posts.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683360158150</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="prompt crash course quick start">
+      <created>1683360991971</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683360991971</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,6 +87,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="python navi" />
-    <option name="LAST_COMMIT_MESSAGE" value="python navi" />
+    <MESSAGE value="prompt crash course quick start" />
+    <option name="LAST_COMMIT_MESSAGE" value="prompt crash course quick start" />
   </component>
 </project>
