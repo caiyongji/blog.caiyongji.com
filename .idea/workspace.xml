@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96b72ae1-b839-41d1-9f23-9e6ef2110db7" name="Changes" comment="add svm" />
+    <list default="true" id="96b72ae1-b839-41d1-9f23-9e6ef2110db7" name="Changes" comment="add svm">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
+    </list>
+    <list id="45223373-83b9-4ef5-86cf-082aec47551b" name="IGNORE" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +44,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="96b72ae1-b839-41d1-9f23-9e6ef2110db7" name="Changes" comment="" />
+      <changelist id="45223373-83b9-4ef5-86cf-082aec47551b" name="IGNORE" comment="" />
       <created>1674733855523</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
