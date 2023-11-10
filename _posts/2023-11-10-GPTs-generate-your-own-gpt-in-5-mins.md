@@ -32,6 +32,7 @@ tags:
 ![Alt text](/assets/images/20231110/image-4.png)
 
 # CaiBlogGPT
-总的来说，这就是我生成自己的GPT的体验。大家可以试试我用5分钟打造的gpt： [https://chat.openai.com/g/g-ARKi8yoKs-caibloggpt](https://chat.openai.com/g/g-ARKi8yoKs-caibloggpt)。
+总的来说，这意味着老板们想要啥可以自己打造了，哪有什么技术壁垒。我的理解是，谁有数据，谁就有模型能力，技术层面，已经是傻瓜式了。 机器学习已经毫无意义，打造自己的knowledge base（知识库）吧。那么谁有整合这些数据的能力呢？这个赢家通吃，强者恒强的世界呀！  
+这就是我生成自己的GPT的体验。大家可以试试我用5分钟打造的gpt： [https://chat.openai.com/g/g-ARKi8yoKs-caibloggpt](https://chat.openai.com/g/g-ARKi8yoKs-caibloggpt)。  
 
-我从来只原创，也不水文章（咳咳），所以几年没更新。我早已财务自由（并没有），下次再见。
+我从来只原创，也不水文章（咳咳），所以几年没更新。我早已财务自由（并没有），下次再见。  
