@@ -6,7 +6,7 @@ tags:
 - OpenAI
 ---
 
-前几天OpenAI的My GPTs栏目还是灰色的，现在已经开放使用了。有幸第一时间体验了一把生成自己的GPT，效果着实惊艳！！！我打造的GPT模型我会放到文章末尾，大家感兴趣也可以自己体验一下。
+前几天OpenAI的My GPTs栏目还是灰色的，就在今天已经开放使用了。有幸第一时间体验了一把生成自己的GPT，效果着实惊艳！！！我打造的GPT模型我会放到文章末尾，大家感兴趣也可以自己体验一下。
 ![Alt text](/assets/images/20231110/image.png)
 
 # 打造自己的GPT模型
@@ -14,7 +14,7 @@ tags:
 ![Alt text](/assets/images/20231110/image-1.png)
 
 点进去Configure配置，可以看到具体的头像、名称、描述、说明、对话引导、知识库、可选择的模型能力（是否打开联网、Dall·E图像生成、代码解释器）以及Actions这个是模型调用API的能力。
-【此处长截图】
+![Alt text](/assets/images/20231110/img5.png)
 
 我上传了我所有的mardown文章内容，然后告诉模型，我要一个博客写作GPT帮我写技术文章。
 # GPT builder
@@ -27,11 +27,11 @@ tags:
 
 ![Alt text](/assets/images/20231110/image-3.png)
 # 实践
-我让他根据我以往的写作风格写一篇技术文章，它选择了[《深入理解Python异步编程：从原理到实践》]()我已经放到了我的个人博客上，大家可以自己看看写的怎么样。  
+我让他根据我以往的写作风格写一篇技术文章，它选择了[《深入理解Python异步编程：从原理到实践》](https://blog.caiyongji.com/2023/11/10/gpt-sample.html)我已经放到了我的个人博客上，大家可以自己看看写的怎么样。  
 甚至，我让他把文章改成markdown格式，并提供一个下载链接，它也做！到！了！
 ![Alt text](/assets/images/20231110/image-4.png)
 
 # CaiBlogGPT
 总的来说，这就是我生成自己的GPT的体验。大家可以试试我用5分钟打造的gpt： [https://chat.openai.com/g/g-ARKi8yoKs-caibloggpt](https://chat.openai.com/g/g-ARKi8yoKs-caibloggpt)。
 
-几年没更新了，因为我早已财务自由（并没有），下次再见。
+我从来只原创，也不水文章（咳咳），所以几年没更新。我早已财务自由（并没有），下次再见。

@@ -1,5 +1,5 @@
 ---
-title: GPTs: (Sample)深入理解Python异步编程：从原理到实践
+title: (Sample)深入理解Python异步编程：从原理到实践
 tags:
 - GPT
 - ChatGPT
