@@ -1,5 +1,5 @@
 ---
-title: 最佳实践：五分钟打造你自己的GPT
+title: GPT最佳实践：五分钟打造你自己的GPT
 tags:
 - GPT
 - ChatGPT
