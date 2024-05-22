@@ -36,7 +36,7 @@ java中使用spring *@version* 关键字，
 <property name="defaultTargetDataSource" ref="masterDataSource"/>
 </bean>
 ```
-并在dao层调用时进行读写分别调用。
+并在dao层调用时进行读写分别调用。 
 为保证master/slave服务器的数据一致性，两个服务器间会有同步。
 # 分离resource存储
 我们以图片分离存储为例，在web场景中，页面加载的图片是非常消耗资源的，通常我们会放在其他的服务器上来进行存储，针对图片资源进行优化加速。这就像是java编程理念中的“解耦”。
